@@ -1,0 +1,32 @@
+
+body {
+    background-color: #FFCCB3;
+    font-family: Garamond, serif;
+    font-weight: lighter;
+    text-align: center;
+}
+
+h1 {
+    color: #554994;
+    font-size: 50px;
+    font-family: Roboto, sans-serif;
+}
+
+ul {
+    columns: 3;
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a, a:visited {
+    color: #F675A8
+}
+
+a:hover {
+    color: #9ED2C6
+}
